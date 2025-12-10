@@ -12,6 +12,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/marin/Project/MovableBlock/build/Desktop-Debug/MovableBlock_autogen/mocs_compilation.cpp" "CMakeFiles/MovableBlock.dir/MovableBlock_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/MovableBlock.dir/MovableBlock_autogen/mocs_compilation.cpp.o.d"
   "/home/marin/Project/MovableBlock/main.cpp" "CMakeFiles/MovableBlock.dir/main.cpp.o" "gcc" "CMakeFiles/MovableBlock.dir/main.cpp.o.d"
   "/home/marin/Project/MovableBlock/mainwindow.cpp" "CMakeFiles/MovableBlock.dir/mainwindow.cpp.o" "gcc" "CMakeFiles/MovableBlock.dir/mainwindow.cpp.o.d"
+  "/home/marin/Project/MovableBlock/movableblock.cpp" "CMakeFiles/MovableBlock.dir/movableblock.cpp.o" "gcc" "CMakeFiles/MovableBlock.dir/movableblock.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

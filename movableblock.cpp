@@ -3,7 +3,7 @@
 
 MovableBlock::MovableBlock(QWidget *parent) : QWidget(parent) {
     setFixedSize(100, 100);
-    setStyleSheet("background-color: blue; border-radius: 5px;");
+    setStyleSheet("background-color: blue; border-radius: 200px;");
 }
 
 void MovableBlock::mousePressEvent(QMouseEvent *event) {

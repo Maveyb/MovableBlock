@@ -8,6 +8,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/MovableBlock.dir/main.cpp.o.d"
   "CMakeFiles/MovableBlock.dir/mainwindow.cpp.o"
   "CMakeFiles/MovableBlock.dir/mainwindow.cpp.o.d"
+  "CMakeFiles/MovableBlock.dir/movableblock.cpp.o"
+  "CMakeFiles/MovableBlock.dir/movableblock.cpp.o.d"
   "MovableBlock"
   "MovableBlock.pdb"
   "MovableBlock_autogen/mocs_compilation.cpp"

@@ -272,6 +272,30 @@ mainwindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/MovableBlock.dir/build.make CMakeFiles/MovableBlock.dir/mainwindow.cpp.s
 .PHONY : mainwindow.cpp.s
 
+movableblock.o: movableblock.cpp.o
+.PHONY : movableblock.o
+
+# target to build an object file
+movableblock.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MovableBlock.dir/build.make CMakeFiles/MovableBlock.dir/movableblock.cpp.o
+.PHONY : movableblock.cpp.o
+
+movableblock.i: movableblock.cpp.i
+.PHONY : movableblock.i
+
+# target to preprocess a source file
+movableblock.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MovableBlock.dir/build.make CMakeFiles/MovableBlock.dir/movableblock.cpp.i
+.PHONY : movableblock.cpp.i
+
+movableblock.s: movableblock.cpp.s
+.PHONY : movableblock.s
+
+# target to generate assembly for a file
+movableblock.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MovableBlock.dir/build.make CMakeFiles/MovableBlock.dir/movableblock.cpp.s
+.PHONY : movableblock.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -296,6 +320,9 @@ help:
 	@echo "... mainwindow.o"
 	@echo "... mainwindow.i"
 	@echo "... mainwindow.s"
+	@echo "... movableblock.o"
+	@echo "... movableblock.i"
+	@echo "... movableblock.s"
 .PHONY : help
 
 
