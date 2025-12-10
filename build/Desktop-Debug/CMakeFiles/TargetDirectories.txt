@@ -1,0 +1,9 @@
+/home/marin/Project/MovableBlock/build/Desktop-Debug/CMakeFiles/MovableBlock.dir
+/home/marin/Project/MovableBlock/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/marin/Project/MovableBlock/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/marin/Project/MovableBlock/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/marin/Project/MovableBlock/build/Desktop-Debug/CMakeFiles/install.dir
+/home/marin/Project/MovableBlock/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/marin/Project/MovableBlock/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/marin/Project/MovableBlock/build/Desktop-Debug/CMakeFiles/MovableBlock_autogen_timestamp_deps.dir
+/home/marin/Project/MovableBlock/build/Desktop-Debug/CMakeFiles/MovableBlock_autogen.dir

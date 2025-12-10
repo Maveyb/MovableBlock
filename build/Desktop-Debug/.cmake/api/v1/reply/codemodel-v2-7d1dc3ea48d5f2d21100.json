@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0b08c8b12d1b3ffedd27.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MovableBlock",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MovableBlock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MovableBlock-Debug-fdf8b5148cd09850d3c1.json",
+					"name" : "MovableBlock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MovableBlock_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MovableBlock_autogen-Debug-b7af6405f6700518a5cb.json",
+					"name" : "MovableBlock_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MovableBlock_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MovableBlock_autogen_timestamp_deps-Debug-6289d57aa5b3e3eda7df.json",
+					"name" : "MovableBlock_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/marin/Project/MovableBlock/build/Desktop-Debug",
+		"source" : "/home/marin/Project/MovableBlock"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
